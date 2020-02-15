@@ -1,0 +1,32 @@
+{
+  "tabs": {
+    "prefix": "tab",
+    "body": "<!-- tabs:start -->\n#### ** Javascript **\n${0}\n#### ** Python **\n\n<!-- tabs:end -->\n",
+    "description": "tabs"
+  },
+  "code": {
+    "prefix": "code",
+    "body": "```${0}\n${1}\n```\n",
+    "description": "code block"
+  },
+  "link": {
+    "prefix": "link",
+    "body": "[${0}](${1})",
+    "description": "link"
+  },
+  "image": {
+    "prefix": "img",
+    "body": "![${0}](${1})",
+    "description": "image"
+  },
+  "task": {
+    "prefix": "task",
+    "body": "- [x] ${0}\n- [ ] ${1}\n- [ ] ${2}\n",
+    "description": "task"
+  },
+  "table": {
+    "prefix": "table",
+    "body": "| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n",
+    "description": "table"
+  }
+}

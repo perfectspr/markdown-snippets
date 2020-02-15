@@ -1,0 +1,41 @@
+{
+  "name": "markdown-snippets",
+  "description": "Markdown Snippets for coc-snippets and Visual Stuido Code",
+  "version": "0.0.1",
+  "displayName": "Markdown Snippets",
+  "publisher": "perfectspr",
+  "icon": "images/markdown.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^0.10.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "snippet",
+    "snippets",
+    "markdown",
+    "point-free"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "markdown",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perfectspr/markdown-snippets"
+  },
+  "bugs": {
+    "url": "https://github.com/perfectspr/markdown-snippets/issues"
+  },
+  "homepage": "https://github.com/perfectspr/markdown-snippets"
+}
