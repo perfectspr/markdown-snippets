@@ -24,6 +24,11 @@
     "body": "- [x] ${0}\n- [ ] ${1}\n- [ ] ${2}\n",
     "description": "task"
   },
+  "donate": {
+    "prefix": "donate",
+    "body": "如果你觉的这篇文章对你有帮助，[请赏杯咖啡喝吧](https://gitee.com/perfectspr/donate/blob/master/README.md):heart:",
+    "description": "donate"
+  },
   "table": {
     "prefix": "table",
     "body": "| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n",

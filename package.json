@@ -1,7 +1,7 @@
 {
   "name": "markdown-snippets",
   "description": "Markdown Snippets for coc-snippets and Visual Stuido Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Markdown Snippets",
   "publisher": "perfectspr",
   "icon": "images/markdown.png",
